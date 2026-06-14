@@ -5,7 +5,7 @@
 > Universidad del Pacífico · Programa de Ingeniería de Sistemas · Semestre 8 – Corte II  
 > Docente: Wilman Andrés Quiñonez V.
 
----
+
 
 ## 📋 Tabla de Contenidos
 
