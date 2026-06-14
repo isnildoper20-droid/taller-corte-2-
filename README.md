@@ -86,7 +86,7 @@ Aplicar técnicas de estadística descriptiva para **transformar los datos bruto
 | 7 | [120 – 135) | 127.5 | 5 | 0.1000 | 50 | 1.0000 |
 | **Total** | — | — | **50** | **1.0000** | **50** | **1.0000** |
 
-> **★ Clase modal:** el intervalo [60–75) es el de mayor frecuencia con fᵢ = 10 usuarios (20% del total).
+> ** Clase modal:** el intervalo [60–75) es el de mayor frecuencia con fᵢ = 10 usuarios (20% del total).
 
 ### Interpretación de cada columna
 
