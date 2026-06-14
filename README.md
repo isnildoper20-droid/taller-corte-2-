@@ -2,8 +2,9 @@
 # 📊 Análisis Estadístico Descriptivo — Apps Descargadas
 
 > **Taller No. 3 | Inteligencia Artificial**  
-> Universidad del Pacífico · Programa de Ingeniería de Sistemas · Semestre 8 – Corte II  
-> Docente: Wilman Andrés Quiñonez V.
+> UNIVERSIDA DEL PACIFICO · Programa de Ingeniería de Sistemas · Semestre 8 – Corte II  
+> Docente: WILMAN ANDRES QUIÑONES V.
+> Estudiante: ISNILDO EQUIA PERTEAGA
 
 ---
 
